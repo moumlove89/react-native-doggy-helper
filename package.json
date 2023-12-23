@@ -1,0 +1,26 @@
+{
+  "name": "react-native-doggy-helper",
+  "version": "1.0.0",
+  "description": "this is designed for doggy helper",
+  "homepage": "https://github.com/moumlove89/react-native-doggy-helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native-doggy-helper"
+  ],
+  "author": {
+    "name": "doggy",
+    "email": "doggy@example.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moumlove89/react-native-doggy-helper.git"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  }
+}
